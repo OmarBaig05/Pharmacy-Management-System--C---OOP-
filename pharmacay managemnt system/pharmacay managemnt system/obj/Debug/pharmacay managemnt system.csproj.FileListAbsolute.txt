@@ -1,0 +1,67 @@
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe.config
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.pdb
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.AssemblyReference.cache
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.SuggestedBindingRedirects.cache
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Form1.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Properties.Resources.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignInMenu.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.GenerateResource.cache
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.CoreCompileInputs.cache
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.exe
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.pdb
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AdminDashboard.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\Guna.UI2.dll
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.CopyComplete
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddMedicine.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddSupplier.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddWorker.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignUPMenu.resources
+D:\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.ProtectedSignUp.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.SuggestedBindingRedirects.cache
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddMedicine.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddSupplier.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddWorker.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AdminDashboard.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Form1.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Properties.Resources.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.ProtectedSignUp.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignInMenu.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignUPMenu.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.PreviewOrderUI.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.TakeOrderUI.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.WorkerDashboard.resources
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.GenerateResource.cache
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.exe
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.pdb
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe.config
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.pdb
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\Guna.UI2.dll
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.CopyComplete
+D:\Study\2nd SEMESTER\submission\Pharmacy management system\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.StockDisplay.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe.config
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.exe
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\pharmacay managemnt system.pdb
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\bin\Debug\Guna.UI2.dll
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.AssemblyReference.cache
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddMedicine.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddSupplier.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AddWorker.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.AdminDashboard.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Form1.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.Properties.Resources.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.ProtectedSignUp.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignInMenu.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.SignUPMenu.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.PreviewOrderUI.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.StockDisplay.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.TakeOrderUI.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay_managemnt_system.WorkerUI.WorkerDashboard.resources
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.GenerateResource.cache
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.csproj.CoreCompileInputs.cache
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmaca.2435FBF3.Up2Date
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.exe
+E:\University\2nd SEMESTER\submission\2022-CS-43\pharmacay managemnt system\pharmacay managemnt system\obj\Debug\pharmacay managemnt system.pdb

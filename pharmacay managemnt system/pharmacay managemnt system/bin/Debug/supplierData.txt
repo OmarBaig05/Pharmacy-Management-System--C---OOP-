@@ -1,0 +1,7 @@
+omar,oanadol;200;123;200
+omar,oanadol;200;123;200
+no one,none;2;123;200
+omar,oanadol;200;123;200
+omar,oanadol;200;123;200
+no one,none;2;123;200
+omar,panadol;20090;120;2002

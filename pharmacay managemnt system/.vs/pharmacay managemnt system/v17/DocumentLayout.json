@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|e:\\university\\2nd semester\\submission\\2022-cs-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\previeworderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\previeworderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\previeworderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\previeworderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\admincrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\admincrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\stockdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\stockdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\stockdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\stockdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\takeorderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\takeorderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\workerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\workerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\workerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\workerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\takeorderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\takeorderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\workerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\workerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\signinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\signinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\signinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\signinmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\protectedsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\protectedsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\protectedsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\protectedsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\suppliercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\medicinecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\medicinecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\workercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\workercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\dl\\personcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\dl\\personcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\adminui\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\adminui\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\workerui\\previeworderui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\workerui\\previeworderui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FB4BC3-9F1C-4B04-BB6A-729CD9C427F4}|pharmacay managemnt system\\pharmacay managemnt system.csproj|solutionrelative:pharmacay managemnt system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreviewOrderUI.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs [Design]",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.46Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreviewOrderUI.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.cs",
+              "ViewState": "AQIAAAkAAACAMTMzMzMbwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\ClassDiagram1.cd",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ClassDiagram1.cd",
+              "RelativeToolTip": "pharmacay managemnt system\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\AdminCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\AdminCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\AdminCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\AdminCRUD.cs",
+              "ViewState": "AQIAAA8AAADA//////8fwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\CustomerCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\CustomerCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\CustomerCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\CustomerCRUD.cs",
+              "ViewState": "AQIAABoAAABA//////8nwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Customer.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Customer.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Customer.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Customer.cs",
+              "ViewState": "AQIAABoAAACAZmZmZmYjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockDisplay.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\StockDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddMedicine.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwGQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockDisplay.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\StockDisplay.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TakeOrderUI.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerDashboard.Designer.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\WorkerDashboard.Designer.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.Designer.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\WorkerDashboard.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TakeOrderUI.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\TakeOrderUI.cs",
+              "ViewState": "AQIAAE4AAAAAkJmZmZnJv6MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkerDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkerDashboard.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\WorkerDashboard.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AdminDashboard.Designer.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\AdminUI\\AdminDashboard.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAzMzMzEwmwIgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddMedicine.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddMedicine.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\AdminUI\\AdminDashboard.cs",
+              "ViewState": "AQIAACsAAABwmZmZmZklwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignUPMenu.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignUPMenu.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\SignUPMenu.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignUPMenu.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\SignUPMenu.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA2wDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUPMenu.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignUPMenu.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\SignUPMenu.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignUPMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProtectedSignUp.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ProtectedSignUp.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\ProtectedSignUp.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ProtectedSignUp.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\ProtectedSignUp.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\Form1.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA6wEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignInMenu.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignInMenu.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\SignInMenu.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignInMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignInMenu.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignInMenu.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\SignInMenu.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\SignInMenu.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\SignInMenu.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAA2wEsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\SupplierCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\SupplierCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\SupplierCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\SupplierCRUD.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAxwGEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MedicineCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\MedicineCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\MedicineCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\MedicineCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\MedicineCRUD.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProtectedSignUp.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ProtectedSignUp.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\ProtectedSignUp.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\ProtectedSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkerCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\WorkerCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\WorkerCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\WorkerCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\WorkerCRUD.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonCRUD.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\PersonCRUD.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\DL\\PersonCRUD.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\DL\\PersonCRUD.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\DL\\PersonCRUD.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Supplier.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Supplier.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Supplier.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Supplier.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Medicine.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Medicine.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Medicine.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Medicine.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Worker.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Worker.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Worker.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Worker.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Person.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Person.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Person.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Person.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Admin.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\BL\\Admin.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\BL\\Admin.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\BL\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddWorker.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "ViewState": "AQIAAGQAAAAAmZmZmdklwGgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddWorker.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddWorker.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddWorker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddSupplier.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "ViewState": "AQIAAEYAAACAMjMzMzMtwFQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddSupplier.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\AdminUI\\AddSupplier.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\AdminUI\\AddSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\Form1.cs",
+              "ToolTip": "D:\\Study\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PreviewOrderUI.Designer.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.Designer.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.Designer.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.Designer.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\WorkerUI\\PreviewOrderUI.Designer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAMwKQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "pharmacay managemnt system\\Form1.Designer.cs",
+              "ToolTip": "E:\\University\\2nd SEMESTER\\submission\\2022-CS-43\\pharmacay managemnt system\\pharmacay managemnt system\\Form1.Designer.cs",
+              "RelativeToolTip": "pharmacay managemnt system\\Form1.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-31T19:41:11.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

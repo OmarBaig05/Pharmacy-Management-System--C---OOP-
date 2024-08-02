@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="pharmacay_managemnt_system.BL.Admin">
+    <Position X="0.5" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.BL.Customer">
+    <Position X="5.25" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAiAAAAIAAAAAAgAAAIEAAICoAAAQAgABAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.BL.Medicine">
+    <Position X="11.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAACAAABEAAAACAACIAAAICAAAAgAAAAACA=</HashCode>
+      <FileName>BL\Medicine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.PersonCRUD">
+    <Position X="16.75" Y="1.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AIKAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAEAACAAAA=</HashCode>
+      <FileName>DL\PersonCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.SupplierCRUD">
+    <Position X="20" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAAAAQCQAAAACAAAgAAIAAAAAAAAAAKCCAEE=</HashCode>
+      <FileName>DL\SupplierCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.WorkerCRUD">
+    <Position X="19.25" Y="4.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAAAAAAEAACAAAAAAAAAAAgAAAAAAAAAAAAIA=</HashCode>
+      <FileName>DL\WorkerCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.AdminCRUD">
+    <Position X="14.5" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>DL\AdminCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.CustomerCRUD">
+    <Position X="23.75" Y="7.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgCAAAA=</HashCode>
+      <FileName>DL\CustomerCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.DL.MedicineCRUD">
+    <Position X="10" Y="7.25" Width="9" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAABAQCQACBAQAAAAAACAAAAQAAACCKCgAAA=</HashCode>
+      <FileName>DL\MedicineCRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.BL.Person">
+    <Position X="0.75" Y="1" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAAAAAAgAAAAAAAAgAAAEAAAAAAAAwgAABAA=</HashCode>
+      <FileName>BL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.BL.Supplier">
+    <Position X="5.5" Y="5.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAACACAAgAIgAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pharmacay_managemnt_system.BL.Worker">
+    <Position X="1.5" Y="8" Width="4" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
